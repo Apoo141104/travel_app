@@ -60,14 +60,12 @@ pip install -r requirements.txt
 ```
 4. Run the App Locally:
 ```bash
-streamlit run app.py
+streamlit run main2.py
 ```
 ###📁 Repository Structure
 ```bash
 travel_app/
-├── app.py                 # Main Streamlit app
-├── assets/                # Images and media
-├── components/            # Modular components
+├── main2.py                 # Main Streamlit app   
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
 ```
