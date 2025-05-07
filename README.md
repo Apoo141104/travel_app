@@ -19,7 +19,6 @@ The Travel App allows users to:
 - 🔐 User authentication and profile management  
 - 🗺️ Interactive map integration for destination visualization  
 - 🧾 Expense tracking with categorization  
-- 📱 Responsive design for mobile and desktop devices  
 
 ---
 
